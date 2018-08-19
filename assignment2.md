@@ -37,7 +37,7 @@ be processed in the later assignments.
 
 **High level architecture**
 
-![ass12.png](){width="4.547349081364829in"
+![ass12.png](https://github.com/Shreyasramakrishna90/SystemC-Overview/blob/master/ass12.png){width="4.547349081364829in"
 height="1.825482283464567in"}
 
 The figure above shows the pub/ sub architecture we intend to design in
